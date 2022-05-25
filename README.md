@@ -1,16 +1,12 @@
-### Hi there 👋
+```
+Hi there 👋
+I'm JusCodin, I write code... I think
+```
 
-<!--
-**Jus-Codin/Jus-Codin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| **My Stats** | **My Top Langauages** |
+|:---:|:---:|
+| [![My github stats](https://github-readme-stats.vercel.app/api?username=Jus-Codin&theme=tokyonight)](https://github.com/Jus-Codin/Jus-Codin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&theme=tokyonight&layout=compact)](https://github.com/Jus-Codin/Jus-Codin)|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Codewars** |
+|:---:|
+|[![Badge](https://www.codewars.com/users/Jus_Codin/badges/micro)](https://www.codewars.com/users/Jus_Codin)|
