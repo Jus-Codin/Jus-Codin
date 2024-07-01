@@ -75,4 +75,4 @@ I'm JusCodin, I write code... I think
 
 
 #### **CodeWars**
-[![Badge](https://www.codewars.com/users/Jus_Codin/badges/micro)](https://www.codewars.com/users/Jus_Codin)|
+[![Badge](https://www.codewars.com/users/Jus_Codin/badges/micro)](https://www.codewars.com/users/Jus_Codin)
