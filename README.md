@@ -21,7 +21,7 @@ I'm JusCodin, I write code... I think
             srcset="https://github-readme-stats.vercel.app/api?username=Jus-Codin&theme=catppuccin_latte&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jus-Codin&theme=tokyonight&show_icons=true" />
+          <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jus-Codin&show_icons=true" />
         </picture>
       </a>
     </td>
@@ -35,10 +35,10 @@ I'm JusCodin, I write code... I think
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=catppuccino&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact" />
+          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&layout=compact" />
         </picture>
       </a>
     </td>
