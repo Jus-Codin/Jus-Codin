@@ -62,7 +62,7 @@ I'm JusCodin, I write code... I think
 |[![Badge](https://www.codewars.com/users/Jus_Codin/badges/micro)](https://www.codewars.com/users/Jus_Codin)|
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,5 +98,5 @@ YBN-CTF-2024             19 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/07/2024 06:26:02 UTC
+ Last Updated on 01/07/2024 06:51:59 UTC
 <!--END_SECTION:waka-->
