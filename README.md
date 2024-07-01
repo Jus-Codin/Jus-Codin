@@ -21,7 +21,7 @@ I'm JusCodin, I write code... I think
             srcset="https://github-readme-stats.vercel.app/api?username=Jus-Codin&theme=catppuccin_latte&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jus-Codin&show_icons=true" />
+          <img height=150 src="https://github-readme-stats.vercel.app/api?username=Jus-Codin&show_icons=true" />
         </picture>
       </a>
     </td>
@@ -38,7 +38,7 @@ I'm JusCodin, I write code... I think
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&layout=compact" />
+          <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&layout=compact" />
         </picture>
       </a>
     </td>
@@ -55,7 +55,20 @@ I'm JusCodin, I write code... I think
             srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact" />
+          <img height=150 src="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <picture>
+          <source
+            srcset="https://github-profile-trophy.vercel.app/?username=Jus-Codin&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img height=150 src="https://github-profile-trophy.vercel.app/?username=Jus-Codin&theme=flat" />
         </picture>
       </a>
     </td>
