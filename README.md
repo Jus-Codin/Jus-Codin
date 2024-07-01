@@ -65,10 +65,10 @@ I'm JusCodin, I write code... I think
       <a href="#">
         <picture>
           <source
-            srcset="https://github-profile-trophy.vercel.app/?username=Jus-Codin&theme=tokyonight"
+            srcset="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=4&theme=tokyonight"
             media="(prefers-color-scheme: dark)"
           />
-          <img height=150 src="https://github-profile-trophy.vercel.app/?username=Jus-Codin&theme=flat" />
+          <img height=150 src="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=4&theme=flat" />
         </picture>
       </a>
     </td>
