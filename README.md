@@ -48,23 +48,6 @@ I'm JusCodin, I write code... I think
       <a href="#">
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=tokyonight&layout=compact"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#">
-        <picture>
-          <source
             srcset="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=5&theme=tokyonight"
             media="(prefers-color-scheme: dark)"
           />
@@ -89,3 +72,18 @@ I'm JusCodin, I write code... I think
 
 #### **CodeWars**
 [![Badge](https://www.codewars.com/users/Jus_Codin/badges/micro)](https://www.codewars.com/users/Jus_Codin)
+
+
+<a href="#">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=tokyonight&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact" />
+  </picture>
+</a>
