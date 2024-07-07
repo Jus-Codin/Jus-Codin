@@ -48,14 +48,14 @@ I'm JusCodin, I write code... I think
       <a href="#">
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&custom_title=Wakatime%20Week%20Stats&theme=tokyonight&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=tokyonight&layout=compact"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact" />
+          <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=JusCodin&api_domain=wakapi.dev&custom_title=Wakatime%20Week%20Stats&theme=catppuccin_latte&layout=compact" />
         </picture>
       </a>
     </td>
