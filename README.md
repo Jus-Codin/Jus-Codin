@@ -16,39 +16,6 @@
   <img align="right" height=200 src="https://github-readme-stats.vercel.app/api?username=Jus-Codin&show_icons=true" />
 </picture>
 
-<!-- <table align="right">
-  <tr>
-    <td>
-      <a href="#">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&layout=compact" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#">
-        <picture>
-          <source
-            srcset="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=5&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img height=200 src="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=5&theme=flat" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table> -->
-
 - 🎓 I'm currently learning: Cybersecurity, Fullstack Development
 - ⚒️ I'm currently working on: [CTF-Architect](https://github.com/Jus-Codin/CTF-Architect), [CTFdPy](https://github.com/Jus-Codin/CTFdPy)
 
@@ -75,20 +42,19 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&layout=compact" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&size_weight=0.5&count_weight=0.5&layout=compact" />
 </picture>
-
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=5&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
-  <img align="center" height=200 src="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=5&theme=flat" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Jus-Codin&column=5&theme=flat" />
 </picture>
 
 ---
 
-#### **Wakatime Month Stats**
+### **Wakatime Month Stats**
 <a href="#">
   <picture>
     <source
